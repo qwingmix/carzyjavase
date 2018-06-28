@@ -25,7 +25,7 @@ public class FinallyTest {
 		}
 		finally
 		{
-			if(fis !=null)
+			if(fis !=null)//这里同时还是异常处理的嵌套的知识点的case
 			{
 				try
 				{
