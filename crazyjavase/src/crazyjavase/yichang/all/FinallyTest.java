@@ -18,7 +18,7 @@ public class FinallyTest {
 			System.out.println(ioe.getMessage());
 			return;
 			//System.exit(1);//如果把上面return注释掉，用这句，退出虚拟机的话，那么下面的finally就永远执行了。 finally也只有这种极端情况才不会在try后面被屏蔽.
-			//一般这个尾巴都会带上的。..
+			//一般这个尾巴都会带上的。....
 		
 			
 			
