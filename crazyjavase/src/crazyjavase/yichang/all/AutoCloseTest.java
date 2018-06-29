@@ -20,8 +20,10 @@ public class AutoCloseTest {
 			System.out.println(br.readLine());
 			ps.println("×¯ÉúÏşÃÎÃÔºûµû");
 		}
-		
+
 
 	}
+	
+	
 
 }
