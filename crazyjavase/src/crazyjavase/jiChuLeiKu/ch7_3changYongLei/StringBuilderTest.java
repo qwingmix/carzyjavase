@@ -1,15 +1,16 @@
 package crazyjavase.jiChuLeiKu.ch7_3changYongLei;
 
+
 /**
  * @author Derek Wong
  *
- * 2018Äê7ÔÂ1ÈÕ
+ * 2018å¹´7æœˆ1æ—¥
  */
 public class StringBuilderTest {
 
 	public static void main(String[] args) {
 		StringBuilder sb = new StringBuilder();
-		sb.append("java");
+		sb.append("java..");
 		sb.insert(0, "hello ");
 		sb.replace(5, 6, ",");
 		sb.delete(5, 6);
